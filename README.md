@@ -72,7 +72,12 @@ AI app that speaks to you as the person you want to become. Personalized affirma
 
 ### 📜 Certifications
 
-- Claude Code in Action — Anthropic
+|Certificate                                |Issuer                            |Year|
+|-------------------------------------------|----------------------------------|----|
+|Claude Code in Action                      |Anthropic                         |2026|
+|Foundational C# with Microsoft             |Microsoft                         |2025|
+|Cloud Computing: AWS · Azure · Google Cloud|Universidad Nacional de Ingeniería|2025|
+|Git para Desarrolladores                   |Udemy                             |2025|
 
 ### 📫 Let’s connect
 
@@ -130,7 +135,12 @@ App de IA que te habla como la persona que quieres ser. Afirmaciones personaliza
 
 ### 📜 Certificaciones
 
-- Claude Code in Action — Anthropic
+|Certificado                                |Emisor                            |Año |
+|-------------------------------------------|----------------------------------|----|
+|Claude Code in Action                      |Anthropic                         |2026|
+|Foundational C# with Microsoft             |Microsoft                         |2025|
+|Cloud Computing: AWS · Azure · Google Cloud|Universidad Nacional de Ingeniería|2025|
+|Git para Desarrolladores                   |Udemy                             |2025|
 
 ### 📫 Conectemos
 
